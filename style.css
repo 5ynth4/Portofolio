@@ -17,7 +17,7 @@ header, section, footer, aside, nav, article, figure, figcaption {
 				background-color: #ffffff;}
 			header {
 				height: 380px;
-				background-image: url(img.gif);
+				background-image: url("img.gif");
 				background-position: center;}
 			h1 {
 				text-indent: -9999px;
