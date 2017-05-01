@@ -90,6 +90,12 @@ header, section, footer, aside, nav, article, figure, figcaption {
 				font-size: 80%;
 				border: 1px solid #87CEFA;
 				padding: 10px 5px 5px 20px;}
-			table, tr, td {
-				border-left: 1px solid black;}
+			table, th, td {
+				padding: 30px 0px 10px 0px;
+				border: 1px solid black;
+				border-collapse: collapse;}
+			th, td {
+				padding: 5px;
+				text-align: left;}
+
 		</style>
